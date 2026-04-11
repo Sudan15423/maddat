@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sudan15423.github.io/maddat/sitemap.xml
